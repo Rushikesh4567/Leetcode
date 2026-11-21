@@ -31,12 +31,14 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rushikesh4567/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rushikesh4567/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rushikesh4567/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushikesh4567/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -46,8 +48,21 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Rushikesh4567/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushikesh4567/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushikesh4567/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

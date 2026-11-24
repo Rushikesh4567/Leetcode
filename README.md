@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Rushikesh4567/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Rushikesh4567/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Rushikesh4567/Leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0035-search-insert-position](https://github.com/Rushikesh4567/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushikesh4567/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Rushikesh4567/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |

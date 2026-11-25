@@ -44,6 +44,7 @@
 | [0441-arranging-coins](https://github.com/Rushikesh4567/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Rushikesh4567/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Rushikesh4567/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rushikesh4567/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Newton's Method
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rushikesh4567/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rushikesh4567/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rushikesh4567/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |

@@ -45,6 +45,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Rushikesh4567/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Rushikesh4567/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rushikesh4567/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/Rushikesh4567/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/Rushikesh4567/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rushikesh4567/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rushikesh4567/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/Rushikesh4567/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
